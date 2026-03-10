@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useState } from "react";
-import { motorcycles } from "../Data/motorcycles";
+import { motorcycles } from "../Data/Motorcycles";
 import { useCart } from "../assets/CartContext";
 
 export default function MotorcycleDetail() {
