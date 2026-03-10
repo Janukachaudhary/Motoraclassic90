@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { ArrowRight, Award, Clock, Users } from "lucide-react";
-import { motorcycles } from "../Data/motorcycles";
+import { motorcycles } from "../Data/Motorcycles";
 import MotorcycleCard from "../Components/MotorcycleCard"
 
 export default function Home() {
