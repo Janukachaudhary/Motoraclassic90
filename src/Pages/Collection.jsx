@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Filter, Search } from "lucide-react";
-import { motorcycles, categories } from "../data/motorcycles";
+import { motorcycles, categories } from "../Data/Motorcycles";
 import MotorcycleCard from "../Components/MotorcycleCard";
 
 export default function Collection() {
